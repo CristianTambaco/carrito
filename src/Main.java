@@ -3,7 +3,7 @@ public class Main {
 
         System.out.println("NOMBRE: Cristian Tambaco");
         System.out.println("DIRECCION: Joaquin Mancheno y Calle B");
-
+        System.out.println("TELEFONO: 2480523");
 
     }
 }
